@@ -1,0 +1,21 @@
+============================================================
+ASSET INVENTORY REPORT
+Generated: 2026-10-07 10:19:32
+============================================================
+
+SUMMARY
+----------------------------------------
+Total Assets: 8
+  Active: 6
+  Retired: 2
+
+ASSET LISTING
+----------------------------------------
+AST-20261007101932224386 | Laptop | WIN-LP-001 | Windows 11 Pro | John Dlamini | Active
+AST-20261007101932224589 | Desktop | WIN-DT-002 | Windows 10 Pro | Sarah Mnisi | Retired
+AST-20261007101932224673 | Laptop | UBU-LP-003 | Ubuntu 22.04 LTS | Mike Khumalo | Active
+AST-20261007101932224737 | Server | SRV-AD-001 | Windows Server 2022 | IT Admin | Active
+AST-20261007101932224794 | Printer | PRT-HP-001 | HP LaserJet Firmware | Shared | Retired
+AST-20261007101932224848 | Laptop | WIN-LP-004 | Windows 11 Pro | Thandi Ndlovu | Active
+AST-20261007101932224906 | Desktop | LIN-DT-005 | Linux Mint 21 | Dev Team | Active
+AST-20261007101932224957 | Laptop | MAC-LP-006 | macOS Sonoma | Lisa Shongwe | Active
